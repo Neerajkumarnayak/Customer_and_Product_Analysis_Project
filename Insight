@@ -1,0 +1,51 @@
+Customer and Product Analysis:
+
+Customer Analysis:
+
+1).Customer Purchase Frequency and Categories:
+Frequency Distribution:
+Low-Frequency Customers (1-5 orders): 0.36% of total customers
+Medium-Frequency Customers (6-15 orders): 11.63%
+High-Frequency Customers (16+ orders): 87.58%
+
+2).Revenue Contribution by Frequency Category:
+High-frequency customers: 89.93% of total revenue ($4.99M out of $5.55M)
+Medium-frequency customers: 9.47% of revenue ($0.53M)
+Low-frequency customers: 0.6% of revenue ($0.03M)
+
+3).Profit Margin by Frequency Category:
+High-frequency customers: 78.21% average profit margin
+Medium-frequency customers: 14.01% average profit margin
+Low-frequency customers: 7.78% average profit margin
+
+4).Most Profitable Segment by Year:
+2014:
+Corporate Segment: 10.16% of profit ($47.7k)
+Consumer Segment: 18.2% of profit ($84.64k)
+Home Office Segment: 7.11% of profit ($33.07k)
+
+5).Customer Distribution by Country:
+Top 3 countries by customer count:
+USA: 5.24% of customers (790 out of 1,590 customers)
+France: 4.36% (657 customers)
+Mexico: 4.28% (645 customers)
+
+Product Analysis:
+
+1).Top Sales by Country:
+USA: 16.57% of total sales ($920.22k)
+France: 6.63% of total sales ($368.18k)
+Australia: 6.21% of total sales ($344.72k)
+
+2).Profitability of Product Types by Year:
+2014:
+Office Supplies: 22.47% of total profit ($104.5k)
+Furniture: 10.7% of profit ($49.76k)
+Technology: 2.3% of profit ($10.17k)
+3).Price Variation with Sales:
+Reduction in average unit price results, increase in sales volume, indicating a clear price sensitivity among customers.
+
+4).Average Delivery Time Across Countries:
+Chad: 2 days (49.4% faster than global average of 3.97 days)
+France: 4 days
+Armenia: 5.3 days (33.6% slower than global average of 3.97 days)
