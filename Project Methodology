@@ -1,0 +1,15 @@
+Project Methodology:
+This project follows a structured approach to analyze customer and product data, which involves several key steps:
+
+1).Data Extraction:
+The raw data is extracted from a MySQL database using Python's MySQL connector. This step ensures that the most up-to-date and relevant data is used for analysis.
+
+2).Data Cleaning and Wrangling:
+After extraction, the data undergoes thorough cleaning and wrangling. This process includes handling missing values, removing duplicates, correcting data types,
+and addressing any inconsistencies in the dataset, outliers are identified and removed using statistical methods (e.g., Z-scores, IQR). Various Python libraries such as pandas and numpy are employed to ensure the dataset is well-structured and ready for analysis.
+
+3).Storing Cleaned Data:
+Once the data has been cleaned and transformed, it is stored back into the MySQL database. This step ensures that the cleaned data can be accessed efficiently for future analysis or reporting.
+
+4).Exploratory Data Analysis (EDA):
+The cleaned data is then analyzed using Python libraries like matplotlib, seaborn, and pandas for visualizations and statistical summaries. This phase aims to identify patterns, trends, and insights into customer behavior and product profitability.
