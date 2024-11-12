@@ -31,8 +31,12 @@ The Superstore dataset is a widely used, fictional dataset for business analytic
 # Key Data Features:
 
 Order Information: Order ID, order date, shipping date
+
 Product Details: Product name, category, sub-category, sales, and profit
+
 Customer Information: Customer ID, name, location (city, state, country)
+
 Sales and Profit Data: Revenue, profit, and discount information
+
 Shipping Information: Shipping mode, shipping cost
 
