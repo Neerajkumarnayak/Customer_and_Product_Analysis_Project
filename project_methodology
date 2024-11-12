@@ -13,3 +13,7 @@ Once the data has been cleaned and transformed, it is stored back into the MySQL
 
 4).Exploratory Data Analysis (EDA):
 The cleaned data is then analyzed using Python libraries like matplotlib, seaborn, and pandas for visualizations and statistical summaries. This phase aims to identify patterns, trends, and insights into customer behavior and product profitability.
+
+5). Dashboard Development (Power BI):
+After performing exploratory data analysis (EDA), I connected MySQL with Power BI and extracted the cleaned data from the MySQL database. I then designed an interactive dashboard with filters for year, region, and product category, enabling stakeholders to explore insights on demand.
+Additionally, I implemented a 15-day sales forecasting model to predict future sales trends, helping to anticipate demand and optimize business strategies.
