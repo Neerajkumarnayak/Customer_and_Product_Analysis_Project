@@ -7,15 +7,15 @@ This project focuses on analyzing customer and product data to extract meaningfu
 Key Features:
 
 Customer Analysis:
-Purchase frequency and categories
-Revenue and profit margin by customer segment
-Customer distribution by country
+Purchase frequency and categories,
+Revenue and profit margin by customer segment,
+Customer distribution by country,
 Analysis of the most profitable segments by year
 
 Product Analysis:
-Sales and profitability by product category
-Price sensitivity analysis
-Delivery time across countries
+Sales and profitability by product category,
+Price sensitivity analysis,
+Delivery time across countries,
 
 Technologies Used:
 Data Extraction: Python’s MySQL Connector
