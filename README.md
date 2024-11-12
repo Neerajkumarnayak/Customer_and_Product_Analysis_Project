@@ -11,6 +11,7 @@ Purchase frequency and categories
 Revenue and profit margin by customer segment
 Customer distribution by country
 Analysis of the most profitable segments by year
+
 Product Analysis:
 Sales and profitability by product category
 Price sensitivity analysis
