@@ -19,10 +19,16 @@ Delivery time across countries,
 
 # Technologies Used:
 Data Extraction: Python’s MySQL Connector
+
 Data Processing: Pandas, NumPy
+
 Data Visualization: Matplotlib, Seaborn
+
 Database: MySQL
+
 Environment: Jupyter Notebooks for exploratory analysis and visualization
+
+Dashboard Development & forcasting: Power BI
 
 # Smart store Dataset Overview:
 
