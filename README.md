@@ -32,7 +32,7 @@ Dashboard Development & forcasting: Power BI
 
 # Smart store Dataset Overview:
 
-The Superstore dataset is a widely used, fictional dataset for business analytics, containing transactional data from a retail store. It covers customer purchases, product performance, and profitability, making it ideal for analyzing business operations and sales performance.
+The Smart store dataset is a widely used, fictional dataset for business analytics, containing transactional data from a retail store. It covers customer purchases, product performance, and profitability, making it ideal for analyzing business operations and sales performance.
 
 # Key Data Features:
 
