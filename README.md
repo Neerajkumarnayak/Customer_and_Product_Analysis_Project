@@ -1,4 +1,4 @@
-# SmartRetail Project
+**# SmartRetail Project**
 
 # Project Overview:
 
