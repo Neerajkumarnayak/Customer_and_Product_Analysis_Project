@@ -17,6 +17,7 @@ Price sensitivity analysis,
 Delivery time across countries,
 
 **# Technologies Used:**
+
 Data Extraction: Python’s MySQL Connector
 
 Data Processing: Pandas, NumPy
