@@ -1,6 +1,6 @@
-# SmartRetail Project:
+# SmartStore Project:
 
-# **Project Overview:**
+**Project Overview:**
 This project focuses on analyzing customer and product data to extract meaningful insights that can drive business decisions. The analysis covers customer purchase behavior, frequency categories, revenue contribution, product profitability, and sales performance across different regions. The goal is to identify high-value customer segments and assess product performance to guide marketing and sales strategies.
 
 **# Key Features:**
