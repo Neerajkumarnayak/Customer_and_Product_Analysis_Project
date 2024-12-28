@@ -1,4 +1,4 @@
-# Customer_and_Product_Analysis_Project
+# SmartRetail Project
 
 # Project Overview:
 
